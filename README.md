@@ -2,8 +2,8 @@
 
 # I'm Lori
 
-[![Twitter Badge](https://img.shields.io/badge/-@chud_lori-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chud_lori)](https://twitter.com/chud_lori) [![Linkedin Badge](https://img.shields.io/badge/-lori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nur-chudlori-aziz/)](https://www.linkedin.com/in/nur-chudlori-aziz/) [![Medium Badge](https://img.shields.io/badge/-@chud_lori-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@chud_lori/)](https://medium.com/@chud_lori/)
-[![Gmail Badge](https://img.shields.io/badge/-lori-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imlori000@gmail.com)](mailto:imlori000@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-lori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nur-chudlori-aziz/)](https://www.linkedin.com/in/nur-chudlori-aziz/)
+[![Gmail Badge](https://img.shields.io/badge/-lori-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imlori000@gmail.com)](mailto:nchudlori@gmail.com)
 
 ## Hi 👋,
 
