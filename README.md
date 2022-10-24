@@ -18,17 +18,6 @@ I'm Lori, I'm a software engineer 👨‍💻 who is passionate about back end t
 
 > Lori
 
----
-
-## Some of my Github Stats
-
-<p align=left> <img src=https://komarev.com/ghpvc/?username=chud-lori alt=chud-lori /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=chud-lori&show_icons=true&include_all_commits=true)](https://github.com/chud-lori/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chud-lori&layout=compact)](https://github.com/chud-lori/github-readme-stats)
-
-⭐️ From [Lori](https://github.com/chud_lori)
-
 <!--
 **chud-lori/chud-lori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
