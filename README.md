@@ -11,10 +11,10 @@ I'm Lori, I'm a software engineer 👨‍💻 who is passionate about back end t
 🏄‍♂️.
 
 - 🔭 I’m currently working on Back End
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning System Design, Software Architecture, Machine learning, and Security
 - 💬 Ask me about: tech, literature, and philosophy
 - 😄 Pronouns: he/him
-- ⚡ Languages: PHP, Javascript, Python3
+- ⚡ Languages: PHP, Javascript, Python, Golang
 
 > Lori
 
