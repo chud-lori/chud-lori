@@ -2,8 +2,8 @@
 
 # I'm Lori
 
-[![Linkedin Badge](https://img.shields.io/badge/-lori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nur-chudlori-aziz/)](https://www.linkedin.com/in/nur-chudlori-aziz/)
-[![Gmail Badge](https://img.shields.io/badge/-lori-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imlori000@gmail.com)](mailto:nchudlori@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nur-chudlori-aziz/)](https://www.linkedin.com/in/nur-chudlori-aziz/)
+[![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imlori000@gmail.com)](mailto:nchudlori@gmail.com)
 [![Website](https://img.shields.io/badge/my_blog-lori.my.id-blue)]([https://lori.my.id/)
 
 
