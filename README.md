@@ -17,7 +17,7 @@ I'm Lori, I'm a software engineer 👨‍💻 who is passionate about back end t
 - 🌱 I’m currently learning System Design, Low Level, AI, and Security
 - 💬 Ask me about: tech, literature, and philosophy
 - 😄 Pronouns: he/him
-- ⚡ Languages: PHP, Javascript, Python, Golang, C++
+- ⚡ Languages: Python, Golang, PHP, Javascript, C++
 
 > Lori
 
